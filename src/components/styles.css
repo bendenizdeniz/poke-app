@@ -1,0 +1,9 @@
+.table-row {
+    cursor: pointer;
+}
+
+.text{
+    font-weight: 600;
+    padding: 15px;
+    border: 1px solid #dee2e6;
+}
